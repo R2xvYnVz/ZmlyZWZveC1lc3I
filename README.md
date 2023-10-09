@@ -1,2 +1,1 @@
-# ZmlyZWZveC1lc3I
-Testing stuff too
+Base64 is very secure, because noone can read it.
